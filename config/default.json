@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://udoka:furthermaths$1@cluster0.bmcxh.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl":   "http://localhost:5000"
+}
